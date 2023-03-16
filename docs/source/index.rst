@@ -1,10 +1,8 @@
-Welcome to Lumache's documentation!
+Welcome to VMVE's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+VMVE is a lightweight 3D renderer designed as a sandbox application for graphics testing 
+and building virtual environments.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -17,6 +15,6 @@ Contents
 --------
 
 .. toctree::
-
-   usage
-   api
+    home
+    about
+    getting started
