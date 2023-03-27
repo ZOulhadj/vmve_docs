@@ -6,7 +6,7 @@ project = 'VMVE'
 copyright = '2023, Zakariya Oulhadj'
 author = 'Zakariya Oulhadj'
 
-release = '0.1'
+release = '0.1.0'
 version = '0.1.0'
 
 # -- General configuration
@@ -30,6 +30,10 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-
+html_logo = 'images/project_logo_transparent.png'
+html_theme_options = {
+    'logo_only': True,
+    'display_version': False,
+}
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
