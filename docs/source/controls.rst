@@ -36,15 +36,19 @@ Viewport controls
 +============================+============+
 | Camera movement            | W, A, S, D |
 +----------------------------+------------+
-| Enable lighting            | Alt+1      |
+| Move object                | F1         |
 +----------------------------+------------+
-| Disabling lighting         | Alt+2      |
+| Rotate object              | F2         |
 +----------------------------+------------+
-| Positions view             | Alt+3      |
+| Scale object               | F3         |
 +----------------------------+------------+
-| Normals view               | Alt+4      |
+| Toggle lighting            | Alt+L      |
 +----------------------------+------------+
-| Specular view              | Alt+5      |
+| Positions view             | Alt+P      |
 +----------------------------+------------+
-| Depth view                 | Alt+6      |
+| Normals view               | Alt+N      |
++----------------------------+------------+
+| Specular view              | Alt+S      |
++----------------------------+------------+
+| Depth view                 | Alt+D      |
 +----------------------------+------------+
