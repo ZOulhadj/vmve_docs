@@ -5,7 +5,11 @@ Getting Started
 Installation
 ============
 
-VMVE can be downloaded on the official website `here <https://zoulhadj.github.io/vmve_website#downloads>`_.
+The latest version of VMVE can be downloaded `here
+https://zoulhadj.github.io/vmve_website/assets/downloads/vmve_0.0.3.zip`_. For a
+complete list of current and previous versions, visit the VMVE website `here
+<https://zoulhadj.github.io/vmve_website>`_.
+ 
 
 
 
