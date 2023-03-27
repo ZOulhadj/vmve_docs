@@ -12,3 +12,4 @@ A project developed by `Zakariya Oulhadj <https://zakariyaoulhadj.com>`_ for his
    getting_started
    user_interface
    controls
+   encryption
